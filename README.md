@@ -67,8 +67,8 @@ This project uses [uv](https://github.com/astral-sh/uv) as the package manager.
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/iamabdullaheqbal/Deep_learning_assignment_2
+cd Deep_learning_assignment_2
 ```
 
 2. Install uv (if not already installed):
